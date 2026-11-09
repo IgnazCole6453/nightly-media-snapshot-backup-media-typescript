@@ -1,0 +1,22 @@
+{
+  "snapshotDate": "2026-09-11",
+  "assets": [
+    {
+      "assetId": "asset-101",
+      "mediaType": "video",
+      "sourceKey": "ingest/asset-101.mov",
+      "consentReference": "consent-77"
+    }
+  ],
+  "processingJobs": [
+    { "jobId": "job-55", "assetId": "asset-101", "status": "completed" }
+  ],
+  "creatorDeliveries": [
+    {
+      "deliveryId": "delivery-9",
+      "assetId": "asset-101",
+      "creatorId": "creator-4",
+      "deliveredAt": "2026-09-11T21:00:00.000Z"
+    }
+  ]
+}
